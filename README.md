@@ -1,6 +1,6 @@
 # VeeSmart
-<h2>Sentiment Analysis on Businesses Reviews</h2>
-<h4>hello wrold</h4>
+<h1>Sentiment Analysis on Businesses Reviews</h1>
+<h3>hello wrold</h3>
 <p>hello world</p>
 
 <h></h>
