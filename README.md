@@ -86,8 +86,7 @@ accuracy threshold of 90% which was spot on as it stopped training right when th
 overfitting. The model performed well on the test set with accuracy and F1 score > 90%, further testing 
 results will be discussed later.</p>
 
-[<h2 align="center">BERT Transformers model
-</h2>](https://github.com/HadiAbouDaya/VeeSmart/blob/main/BERT%20-%20Binary.ipynb)
+[<h2 align="center">BERT Transformers model</h2>](https://github.com/HadiAbouDaya/VeeSmart/blob/main/BERT%20-%20Binary.ipynb)
 <h3>Data Preparation
 </h3>
 <p>Actually, very little data preparation is required to make the reviews ready for BERT Transformers. One 
